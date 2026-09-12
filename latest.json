@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
-  "download_url": "https://github.com/AlouaneMoad/release/releases/download/v1.0.0/synapsedesk.exe",
-  "release_notes": "Official release of SynapseDesk v1.0.0 with embedded web client and automatic in-app updates.",
-  "sha256": "8A75F3D3A930E576D0AB02C157A5D45FAB9A2153679827C59631BE56191A2DAE",
-  "published_at": "2026-09-12T23:05:00Z"
+  "version": "1.0.1",
+  "download_url": "https://github.com/AlouaneMoad/release/releases/download/v1.0.1/synapsedesk.exe",
+  "release_notes": "SynapseDesk v1.0.1: Removed concurrent remote device sessions listing from the license page and updated desktop build.",
+  "sha256": "DA05F6EED2D38AB712192BBC3EDEB22E252AFA69D4BC0A4B1474DEB72CC00714",
+  "published_at": "2026-09-12T23:30:00Z"
 }

@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1",
-  "download_url": "https://github.com/AlouaneMoad/release/releases/download/v1.0.1/synapsedesk.exe",
-  "release_notes": "Initial release of SynapseDesk with embedded web client and automatic in-app updates.",
-  "sha256": "1B2D2F3AEB143F3B81BC95C4BDFC68E6C7D18A7C6F0ADFAB855801CB5FB1C203",
-  "published_at": "2026-09-12T22:56:00Z"
+  "version": "1.0.0",
+  "download_url": "https://github.com/AlouaneMoad/release/releases/download/v1.0.0/synapsedesk.exe",
+  "release_notes": "Official release of SynapseDesk v1.0.0 with embedded web client and automatic in-app updates.",
+  "sha256": "8A75F3D3A930E576D0AB02C157A5D45FAB9A2153679827C59631BE56191A2DAE",
+  "published_at": "2026-09-12T23:05:00Z"
 }
